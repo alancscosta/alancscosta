@@ -1,4 +1,4 @@
-#👩🏻‍💻Alan C. S. Costa
+👩🏻‍💻Alan C. S. Costa
 ---
 `Desenvolvedor web`
 
