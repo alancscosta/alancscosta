@@ -1,7 +1,6 @@
-## 👋 Oiii eu sou o Alan C. S. Costa
+## 👋 Olá, eu sou o Alan C. S. Costa
 
-Sou desenvolvedor web em início de carreira com formação técnica em Informática para Internet.  
-Tenho experiência com HTML, CSS, JavaScript, PHP, Python, WordPress e Bootstrap, e busco sempre aprender mais e aplicar boas práticas nos meus projetos.
+Desenvolvedor Web em início de carreira focado em aplicações web com HTML, CSS, JavaScript, PHP, Python, WordPress e Bootstrap.
 
 ## 💻 Tecnologias
 
@@ -17,9 +16,25 @@ Tenho experiência com HTML, CSS, JavaScript, PHP, Python, WordPress e Bootstrap
 
 ---
 
-## 📫 Contato
+## 📊 Estatísticas do GitHub
+
+> **Movidas por cards dinâmicos que mostram contribuições públicas do GitHub.**  
+> Se não estiver carregando, pode ser instabilidade na API pública (problema conhecido). :contentReference[oaicite:1]{index=1}
+
+<p align="center">
+  <a href="https://github.com/alancscosta">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=alancscosta&show_icons=true&theme=bluewhite" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/alancscosta">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alancscosta&layout=compact&theme=bluewhite" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
+## 📬 Contato
 
 <div> 
-  <a href="https://www.linkedin.com/in/alan-costa-878593313/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:alanzin0550@gmail.com"><img src="https://img.shields.io/badge/-E-mail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alan-costa-878593313/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:alanzin0550@gmail.com"><img src="https://img.shields.io/badge/-Email-%23000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
