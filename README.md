@@ -1,37 +1,35 @@
 <!-- ==============================
-      README - Alan C. S. Costa
+       README - Alan C. S. Costa
 ================================ -->
 
 <div align="center">
-  <!-- Header / Title -->
-  <h1>👋 Olá, eu sou o Alan Costa!</h1>
+  <h1>👋 Olá! Eu sou o Alan C. S. Costa</h1>
   <p>Desenvolvedor Web em início de carreira</p>
 
-  <!-- Badges -->
+  <!-- Badges principais -->
   <p>
+    <a href="https://github.com/alancscosta">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+    </a>
     <a href="https://www.linkedin.com/in/alan-costa-878593313/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
     <a href="mailto:alanzin0550@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
     </a>
-    <a href="https://github.com/AlanCSCosta">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-    </a>
   </p>
 </div>
 
 ---
 
-## 💼 Sobre Mim
+## 💻 Sobre Mim
 
-Sou desenvolvedor web com formação técnica em **Informática para Internet** e foco no desenvolvimento de aplicações web. Tenho experiência com HTML, CSS, JavaScript, PHP, Python e Wordpress, sempre buscando código limpo, organizado e funcional.
-
-Estou aprofundando meus conhecimentos em **Front-End moderno**, especialmente com **TypeScript** e **React**, além de trabalhar com consumo de APIs e interfaces componentizadas.
+Sou **desenvolvedor web** com formação técnica em Informática para Internet e foco em desenvolvimento de aplicações web com HTML, CSS, JavaScript, PHP e Python.  
+Trabalho com interfaces e funcionalidades dinâmicas, sempre buscando **código limpo, legível e organizado**.
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
+## 🧰 Tecnologias que uso
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -45,42 +43,44 @@ Estou aprofundando meus conhecimentos em **Front-End moderno**, especialmente co
 
 ---
 
-## ✨ Destaque de Projetos
+## 📁 Projetos em Destaque
 
-Aqui estão alguns projetos que desenvolvi ou nos quais trabalhei:
+| Projeto | Descrição | Linguagens |
+|--------|-----------|------------|
+| **LibrasYT** | Projeto focado em acessibilidade (interpretação/legenda em Libras) | JavaScript / Web |
+| **LibrasYT-Python** | Ferramenta Python para tradução de vídeos para Libras (trabalho em andamento) | Python | :contentReference[oaicite:1]{index=1}
+| **Download-Videos-Youtube** | Script para baixar vídeos do YouTube | Python / Web |
+| **Sistema_Biblioteca** | Sistema de biblioteca com CRUD e organização de acervo | PHP / SQL |
 
-| Projeto | Tecnologias | Link |
-|--------|-------------|------|
-| 📹 **LibrasYT** | HTML, CSS, JS | `link do projeto` |
-| 🧠 **LibrasYT-Python** | Python | `link do projeto` |
-| 📥 **Download-Videos-Youtube** | Python | `link do projeto` |
-| 📚 **Sistema_Biblioteca** | PHP, MySQL | `link do projeto` |
+> 💡 Substitua os links abaixo pelos URLs diretos dos seus repositórios.
 
-> 💡 Substitua `link do projeto` pelos links das suas páginas/repos reais.
+🔥 **Links dos Repositórios:**
+- 🔗 https://github.com/alancscosta/LibrasYT  
+- 🔗 https://github.com/alancscosta/LibrasYT-Python  
+- 🔗 https://github.com/alancscosta/Download-Videos-Youtube  
+- 🔗 https://github.com/alancscosta/Sistema_Biblioteca  
 
 ---
 
-## 📊 Minhas Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
-> (Estilo clean, com fundo branco e detalhes em azul)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlanCSCosta&show_icons=true&theme=bluewhite" alt="GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alancscosta&show_icons=true&theme=bluewhite" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanCSCosta&layout=compact&theme=bluewhite" alt="Top Languages" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alancscosta&layout=compact&theme=bluewhite" alt="Top Languages" />
+</div>
 
 ---
 
-## 📌 Contato
+## 📬 Contato
 
-Se quiser trocar uma ideia, trabalhar junto ou só dizer oi, use:
+Se quiser conversar ou colaborar:
 
-✉️ **E-mail:** alanzin0550@gmail.com  
+✉️ **Email:** alanzin0550@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/alan-costa-878593313/
 
 ---
 
 <div align="center">
-  <p>Obrigado por visitar o meu perfil! 🚀</p>
+  <p>✨ Obrigado por visitar meu GitHub! 🚀</p>
 </div>
