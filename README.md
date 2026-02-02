@@ -1,7 +1,7 @@
-## 👋 Oiii eu sou o Alan C. S. Costa
+## 👋 Olá, eu sou o Alan C. S. Costa
 
 Desenvolvedor Web em início de carreira com foco em desenvolvimento de aplicações web, construção de interfaces e boas práticas de código.  
-Sou formado em **Técnico de Informática para Internet** e atualmente estudando **Engenharia de Software**, buscando evoluir constantemente em tecnologias modernas de desenvolvimento.
+Sou formado em **Técnico de Informática para Internet** e atualmente **Engenharia de Software**, estudando e buscando evoluir constantemente em tecnologias modernas de desenvolvimento.
 
 ---
 
@@ -24,18 +24,6 @@ Tenho experiência com diversas ferramentas e metodologias que me ajudam a plane
   <img align="center" alt="WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
-
----
-
-## 📊 Organização e Planejamento
-
-Utilizo **metodologias ágeis** como _Kanban_ e _Scrum_ para organizar tarefas e fluxos de trabalho.  
-Para planejamento, prototipação e diagramação uso ferramentas como:
-
-- 🧠 **Figma** – protótipos e layouts  
-- 📐 **draw.io** – diagramas e modelagens de sistemas
-
-Essas ferramentas me ajudam a estruturar ideias antes de implementar, garantindo clareza e eficiência.
 
 ---
 
