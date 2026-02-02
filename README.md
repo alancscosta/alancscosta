@@ -1,4 +1,5 @@
-👩🏻‍💻Alan C. S. Costa
+#👩🏻‍💻Alan C. S. Costa
+---
 `Desenvolvedor web`
 
 Desenvolvedor Web em início de carreira com foco em desenvolvimento de aplicações web, construção de interfaces e boas práticas de código.  
