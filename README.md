@@ -1,8 +1,18 @@
-## 👋 Olá, eu sou o Alan C. S. Costa
+## 👋 Oiii eu sou o Alan C. S. Costa
 
-Desenvolvedor Web em início de carreira focado em aplicações web com HTML, CSS, JavaScript, PHP, Python, WordPress e Bootstrap.
+Desenvolvedor Web em início de carreira com foco em desenvolvimento de aplicações web, construção de interfaces e boas práticas de código.  
+Sou formado em **Técnico de Informática para Internet** e atualmente estudando **Engenharia de Software**, buscando evoluir constantemente em tecnologias modernas de desenvolvimento.
 
-## 💻 Tecnologias
+---
+
+## 🚀 O que eu faço
+
+Sou curioso por tecnologia e busco sempre aprender coisas novas no universo do **desenvolvimento web**.  
+Tenho experiência com diversas ferramentas e metodologias que me ajudam a planejar, organizar e construir soluções eficientes.
+
+---
+
+## 🧰 Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -10,31 +20,32 @@ Desenvolvedor Web em início de carreira focado em aplicações web com HTML, CS
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Organização e Planejamento
 
-> **Movidas por cards dinâmicos que mostram contribuições públicas do GitHub.**  
-> Se não estiver carregando, pode ser instabilidade na API pública (problema conhecido). :contentReference[oaicite:1]{index=1}
+Utilizo **metodologias ágeis** como _Kanban_ e _Scrum_ para organizar tarefas e fluxos de trabalho.  
+Para planejamento, prototipação e diagramação uso ferramentas como:
 
-<p align="center">
-  <a href="https://github.com/alancscosta">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=alancscosta&show_icons=true&theme=bluewhite" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/alancscosta">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alancscosta&layout=compact&theme=bluewhite" alt="Top Languages" />
-  </a>
-</p>
+- 🧠 **Figma** – protótipos e layouts  
+- 📐 **draw.io** – diagramas e modelagens de sistemas
+
+Essas ferramentas me ajudam a estruturar ideias antes de implementar, garantindo clareza e eficiência.
 
 ---
 
 ## 📬 Contato
 
 <div> 
-  <a href="https://www.linkedin.com/in/alan-costa-878593313/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:alanzin0550@gmail.com"><img src="https://img.shields.io/badge/-Email-%23000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alan-costa-878593313/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:alanzin0550@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
