@@ -1,8 +1,8 @@
 👩🏻‍💻Alan C. S. Costa
 ---
-`Desenvolvedor web`
+`Desenvolvedor de Software | WEB`
 
-Desenvolvedor Web em início de carreira com foco em desenvolvimento de aplicações web, construção de interfaces e boas práticas de código.  
+Desenvolvedor de Software | Web em início de carreira com foco em desenvolvimento de aplicações web, construção de interfaces e boas práticas de código.  
 Sou formado em **Técnico de Informática para Internet** e atualmente **Engenharia de Software**, estudando e buscando evoluir constantemente em tecnologias modernas de desenvolvimento.
 
 ---
